@@ -1,3 +1,6 @@
+
+# Notion Python Function
+
 ```python
 add_heading_1(notion_token, pageId, content, color="default")
 table_raw_custom_gen(cols, content = [], bold=False, color="default")
